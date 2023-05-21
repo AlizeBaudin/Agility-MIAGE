@@ -7,8 +7,10 @@ https://docs.google.com/spreadsheets/d/1haNVspegt_7HdawE0OP5UB6-oeBan_zV6hYLheX6
 
 ## Contenu du fichier 
 ### les class :
-Album.py, Award.py, Music.py : fichier de class pour les musics
+Album.py, Award.py, Music.py : fichier de class pour les musics 
+
 Eleve.py, Spliner.py, Verrochio.py : fichier de class pour l'atelier d'artiste
+
 ### les tests :
 ajout_artiste_test.feature : User story (def)
 ajout_artiste_test.py : conficugration de la user story pour les tests
