@@ -30,3 +30,5 @@ Eleve.py : gère l'ajout des élèves <br>
 
 ## La suite :
 Mettre en relaion les music et l'atelier <br>
+ ==== test à pursuivre <br>
+
