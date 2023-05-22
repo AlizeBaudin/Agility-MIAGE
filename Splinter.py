@@ -1,5 +1,7 @@
 import dataclasses
 
+import Eleve
+import Music
 import Verrocchio
 
 
@@ -7,8 +9,9 @@ class Splinter:
     def __init__(self, nom, anneeNaissance):
         self.nom = nom
         self.anneeNaissance = anneeNaissance
-        self.maitreDe = None
-        self.atelier = None
+        self.maitreDe = Eleve
+        self.atelier = Verrocchio
+        self.music = Music
 
     def getNom(self):
         return self.nom
@@ -22,6 +25,12 @@ class Splinter:
     def enCours(self):
         self.maitreDe.apprentissage()
 
+    def ordonne_couleur(self, artiste):
+        self.maitreDe.prepare_couleur(artiste)
+
+# ---------------------------------------------------------------------- Partie music
+    def fait_decouvrir_musique(self, music):
+        self.atelier.ecouter_musique(music.getNom())
 
 def getNom(nom):
     return nom

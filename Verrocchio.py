@@ -2,6 +2,7 @@ from typing import List
 from Eleve import *
 from Splinter import *
 import dataclasses
+import Music
 
 class Verrochio:
     def __init__(self, nom: str, date_fondation: int, master: Splinter):
@@ -9,6 +10,8 @@ class Verrochio:
         self.date_fondation = date_fondation
         self.artistes = []
         self.master = master
+        self.music = Music
+        self.playist = []
 
     # Getter et Setter
     def get_nom(self) -> str:
@@ -41,7 +44,25 @@ class Verrochio:
         for artiste in self.artistes:
             print(artiste)
 
+# ---------------------------------------------------------------------- Partie music
+    def ecouter_music(self, music):
+        print("Dans l'atelier nous écoutons la musique " + music.getNom())
+
+    def ajouter_music(self, nom_music: Music):
+        self.playist.append(nom_music)
+
+    def taille_playist(self) -> int:
+        return len(self.playist)
 
 def ajouter_artiste(nom_artiste):
     return nom_artiste
 
+def ecouter_musique(music):
+    return ecouter_musique(music)
+
+def ajouter_music(music):
+    return music
+
+
+def taille_playist(playist=None):
+    return len(playist)

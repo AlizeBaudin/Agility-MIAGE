@@ -37,9 +37,11 @@ class Music:
         self.worstSongAwards = worstSongAwards
 
 
+def getNom(nom):
+    return nom
+
 def howOldAreYou(edition):
     return 2023 - edition
 
-
 def getEdition():
-    return getEdition();
+    return getEdition()
