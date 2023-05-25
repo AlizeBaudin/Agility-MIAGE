@@ -11,8 +11,8 @@ Les documents ci-dessous présente notre projet pour la soutenance <br>
 
 ## Les branches :
 BlueJ := premier essaie et présentation de l'utilisation de logiciel qui initi au code et à la programmation  <br>
-Projet-Music : soutenue par Quilian et Yfei, c'est un projet musique avec les tests fonctionnelles.<br>
-Projet_python : soutenue par Amine et Alizé, c'est un projet pour la présentaion des tests unitairse, avec les user stories, basés sur la nomenclature des user storie . Il présente aussi la mise en commune des deux projets <br>
+Projet-Music : soutenue par Quilian et Yfei sous IntelliJ, c'est un projet musique avec les tests fonctionnelles.<br>
+Projet_python : soutenue par Amine et Alizé sous PyCharm, c'est un projet pour la présentaion des tests unitairse, avec les user stories, basés sur la nomenclature des user storie . Il présente aussi la mise en commune des deux projets <br>
 
 
 ## autre liens : suivis des cours
