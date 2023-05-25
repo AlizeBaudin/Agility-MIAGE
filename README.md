@@ -1,6 +1,6 @@
 # Agility-MIAGE
 
-Projet en commun sur les tests fonctionnelles (partie musique) et unitaire (partie atelier, fait à l'aide de la méthode de teste fonctionnelle) via une user storie: <br>
+Projet en commun sur les tests fonctionnelles (partie musique) et unitaire (partie atelier, fait à l'aide de la méthode de test fonctionnel) via une user storie: <br>
 Atelier : Amine El Hassani et Alizé <br>
 Music : Quilian et Yfei<br>
 
