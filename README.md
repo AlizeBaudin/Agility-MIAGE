@@ -1,6 +1,6 @@
 # Agility-MIAGE
 
-Equipe : Amine El Hassan  et Alizé Baudin <br>
+Equipe :Yfei et Quilian (Musique), et, Amine et Alizé  (Atelier d'artiste) <br>
 Projet en commun avec Yfei et Quilian <br>
 
 Lien pour suivre les étapes et les cours : <br>
@@ -16,6 +16,10 @@ Eleve.py, Spliner.py, Verrochio.py : fichier de class pour l'atelier d'artiste<b
 ajout_artiste_test.feature : User story (def) <br>
 ajout_artiste_test.py : conficugration de la user story pour les tests <br>
 Concours_art_test.py : test fonctionnelle de l'ajout d'artiste dans l'atelier <br>
+#### test en commun : <br>
+ajout_music_test.feature : User story (def) <br>
+ajout_music_test.py : conficugration de la user story pour les tests <br>
+music_atelier.py : test fonctionnelle de l'ajout d'artiste dans l'atelier <br>
 
 ## Description du contenu des fichier
 ### Pour les musics :
@@ -28,7 +32,5 @@ Verrochio.py : atelier des artistes <br>
 Splinter.py : fiche du propriétaire de l'atelier, c'est le maître Verrochio dans la réalité <br>
 Eleve.py : gère l'ajout des élèves <br>
 
-## La suite :
-Mettre en relaion les music et l'atelier <br>
- ==== test à pursuivre <br>
+
 
