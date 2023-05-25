@@ -2,7 +2,7 @@
 
 Projet en commun sur les tests fonctionnelles (partie musique) et unitaire (partie atelier, fait à l'aide de la méthode de test fonctionnel) via une user storie: <br>
 Atelier : Amine El Hassani et Alizé <br>
-Music : Quilian et Yfei<br>
+Music : Quilian et Yufei<br>
 
 ## Les documents
 Les documents ci-dessous présente notre projet pour la soutenance <br>
@@ -11,8 +11,8 @@ Les documents ci-dessous présente notre projet pour la soutenance <br>
 
 ## Les branches :
 BlueJ := premier essaie et présentation de l'utilisation de logiciel qui initi au code et à la programmation  <br>
-Projet-Music : soutenue par Quilian et Yfei sous IntelliJ, c'est un projet musique avec les tests fonctionnelles.<br>
-Projet_python : soutenue par Amine et Alizé sous PyCharm, c'est un projet pour la présentaion des tests unitairse, avec les user stories, basés sur la nomenclature des user storie . Il présente aussi la mise en commune des deux projets <br>
+Projet-Music : soutenue par Quilian et Yufei sous IntelliJ, c'est un projet protant sur la musique qui génère des musiques, les classe, et leurs donne une note, avec les tests fonctionnelles.<br>
+Projet_python : soutenue par Amine et Alizé sous PyCharm, c'est un projet sur la créatioin d'un atelier d'artiste, pour la présentaion des tests unitairse, avec les user stories, basés sur la nomenclature des user storie . Il présente aussi la mise en commune des deux projets <br>
 
 
 ## autre liens : suivis des cours
