@@ -1,13 +1,19 @@
 # Agility-MIAGE
 
-Projet en commun sur les tests uniter via une user stori: <br>
+Projet en commun sur les tests fonctionnelles (partie musique) et unitaire (partie atelier, fait à l'aide de la méthode de teste fonctionnelle) via une user storie: <br>
 Atelier : Amine El Hassani et Alizé <br>
 Music : Quilian et Yfei<br>
 
-Lien pour suivre les étapes et les cours : <br>
-https://docs.google.com/spreadsheets/d/1haNVspegt_7HdawE0OP5UB6-oeBan_zV6hYLheX6Lxo/edit#gid=0
+## Les documents
+Les documents ci-dessous présente notre projet pour la soutenance <br>
+
+
 
 ## Les branches :
-BlueJ := premier essaie  <br>
-Music (Quilian et Yfei) : projet music  <br>
-Python (pycharm) : premier essaie transposé en python (pycharm), avec test fonctionnelle<br>
+BlueJ := premier essaie et présentation de l'utilisation de logiciel qui initi au code et à la programmation  <br>
+Projet-Music : soutenue par Quilian et Yfei, c'est un projet musique avec les tests fonctionnelles.<br>
+Projet_python : soutenue par Amine et Alizé, c'est un projet pour la présentaion des tests unitairse, avec les user stories, basés sur la nomenclature des user storie . Il présente aussi la mise en commune des deux projets <br>
+
+
+## autre liens : suivis des cours
+https://docs.google.com/spreadsheets/d/1haNVspegt_7HdawE0OP5UB6-oeBan_zV6hYLheX6Lxo/edit#gid=0
