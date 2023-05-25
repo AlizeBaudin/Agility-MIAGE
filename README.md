@@ -12,11 +12,11 @@ Album.py, Award.py, Music.py : fichier de class pour les musics <br>
 Eleve.py, Spliner.py, Verrochio.py : fichier de class pour l'atelier d'artiste<br>
 
 
-### les tests :
+### les tests : bilbiothèque 'unittest'
 ajout_artiste_test.feature : User story (def) <br>
 ajout_artiste_test.py : conficugration de la user story pour les tests <br>
 Concours_art_test.py : test fonctionnelle de l'ajout d'artiste dans l'atelier <br>
-#### test en commun : <br>
+#### test en commun : bibliothèque 'unittest' <br>
 ajout_music_test.feature : User story (def) <br>
 ajout_music_test.py : conficugration de la user story pour les tests <br>
 music_atelier.py : test fonctionnelle de l'ajout d'artiste dans l'atelier <br>
