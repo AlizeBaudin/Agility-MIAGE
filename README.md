@@ -1,6 +1,6 @@
 # Agility-MIAGE
 
-Equipe :Yfei et Quilian (Musique), et, Amine et Alizé  (Atelier d'artiste) <br>
+Equipe :Yufei et Quilian (Musique), et, Amine et Alizé  (Atelier d'artiste) <br>
 Projet en commun avec Yfei et Quilian <br>
 
 Lien pour suivre les étapes et les cours : <br>
