@@ -5,7 +5,7 @@ import dataclasses
 import Music
 
 
-class Verrochio:
+class Verrocchio:
     def __init__(self, nom: str, date_fondation: int, master: Splinter):
         self.nom = nom
         self.date_fondation = date_fondation
@@ -41,13 +41,12 @@ class Verrochio:
         return len(self.artistes)
 
     def afficher_artistes(self):
-        print("Les artistes travaillant dans l'atelier sont : ")
         for artiste in self.artistes:
-            print(artiste)
+            return artiste
 
 # ---------------------------------------------------------------------- Partie music
     def ecouter_music(self, music):
-        print("Dans l'atelier nous écoutons la musique " + music.getNom())
+        return "Dans l'atelier nous écoutons la musique " + music.getNom()
 
     def ajouter_music(self, nom_music: Music):
         self.playist.append(nom_music)
